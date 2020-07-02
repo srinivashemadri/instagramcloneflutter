@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77805714668",
+    "firebase_url": "https://baathcheeth-15e00.firebaseio.com",
+    "project_id": "baathcheeth-15e00",
+    "storage_bucket": "baathcheeth-15e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77805714668:android:6fad1dc30642b39ea7f9c9",
+        "android_client_info": {
+          "package_name": "com.example.baathcheeth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77805714668-s1eh20n0fu545uiufhmqbj9j9646obqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp78NAMpfTFlVsZlQI6fSZ-Iu2o9pCCBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77805714668-s1eh20n0fu545uiufhmqbj9j9646obqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
